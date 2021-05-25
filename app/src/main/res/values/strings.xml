@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="recipe_servings_label">%1$s Servings</string>
+    <string name="recipe_ingredients_label">%1$s Ingredients</string>
+    <string name="recipe_steps_label">%1$s Steps</string>
+    <string name="recipes_url" translatable="false">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+    <string name="recipe_image_default_url" translatable="false">https://i.imgur.com/ivKaZsj.jpg</string>
+</resources>
